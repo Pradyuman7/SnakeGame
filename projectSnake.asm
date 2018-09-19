@@ -1,4 +1,4 @@
-;; Made by Pradyuman Dixit and Shashank Anand ,2018... Delft University of Technology (TU Delft)
+;; Made by Pradyuman Dixit, 2018... Delft University of Technology (TU Delft)
 ;;
 ;; About me, before the game (which no-one's gonna read) :
 ;; I learnt about programming languages in 8th grade from my cousin brother (who's a SWE in India) and at once I
